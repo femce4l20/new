@@ -48,10 +48,10 @@ return {
         name = "sfw/f",
         animations = {
             { id = "71604609626894", name = "new cuddle grl" },
-            { id = "96867341841188", name = "cuddles" },
+            { id = "96867341841188", name = "cuddles", hipHeight = -1 },
             { id = "104687069461693", name = "cuddles2" },
-            { id = "108208044953488", name = "cuddles3" },
-            { id = "101127053189586", name = "cuddles4" },
+            { id = "108208044953488", name = "cuddles3", hipHeight = -3 },
+            { id = "101127053189586", name = "cuddles4", hipHeight = -0.2 },
             { id = "108360859241335", name = "mwamwamwamwa" },
             { id = "75399969647635", name = "leg up hug" },
             { id = "78664527797699", name = "sit hug girl" },
