@@ -3,20 +3,20 @@ return {
         name = "nsfw/m",
         animations = {
             { id = "116268945019667", name = "bang ur head" },
-            { id = "83879434467976", name = "boing bottom", start = nil, finish = nil, hipHeight -0.2 },
+            { id = "83879434467976", name = "boing bottom", start = nil, finish = nil, hipHeight = -0.2 },
             { id = "125136786273414", name = "die lit" },
             { id = "115812402435199", name = "lower torso bang" },
             { id = "86745448648267", name = "OGGGGGGGGG" },
             { id = "131061459597861", name = "RunningManBang" },
             { id = "107639100736436", name = "slow slide" },
             { id = "99637983789946", name = "Sus jig" },
-            { id = "78093637798125", name = "Watch it bounce", start = 1.5, finish = 8, hipHeight -0.3 }
+            { id = "78093637798125", name = "Watch it bounce", start = 1.5, finish = 8, hipHeight = -0.3 }
         }
     },
     {
         name = "nsfw/f",
         animations = {
-            { id = "127274457723850", name = "Back Thrust", start = nil, finish = nil, hipHeight -0.5 },
+            { id = "127274457723850", name = "Back Thrust", start = nil, finish = nil, hipHeight = -0.5 },
             { id = "137291954460051", name = "bend 1" },
             { id = "71117297875716", name = "bend 2" },
             { id = "74919246969815", name = "bend 3", start = nil, finish = nil, hipHeight = -0.5 },
@@ -27,8 +27,8 @@ return {
             { id = "125965188125293", name = "handjob" },
             { id = "92811207602426", name = "Jack-o" },
             { id = "124575754112740", name = "Rub/Finger" },
-            { id = "107301013061641", name = "open yer legs", start = nil, finish = nil, hipHeight -0.5 },
-            { id = "134343193928632", name = "on back", start = 0.999, finish = 1, hipHeight -0.5 },
+            { id = "107301013061641", name = "open yer legs", start = nil, finish = nil, hipHeight = -0.5 },
+            { id = "134343193928632", name = "on back", start = 0.999, finish = 1, hipHeight = -0.5 },
             { id = "103699000387669", name = "legs up" },
             { id = "103065929051231", name = "succ1" },
             { id = "124873747842579", name = "succ2" },
