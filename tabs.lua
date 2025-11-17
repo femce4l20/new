@@ -34,7 +34,7 @@ return {
             { id = "124873747842579", name = "succ2" },
             { id = "85478341360173", name = "succ3", start = 1, finish = 10 },
             { id = "81284540778909", name = "succ4/bend" },
-            { id = "86519407452355", name = "Serious hip movement" },
+            { id = "86519407452355", name = "Serious hip movement" }
         }
     },
     {
@@ -62,7 +62,7 @@ return {
             { id = "104660720214070", name = "hips sway" },
             { id = "122545939134570", name = "crossarms hipsway" },
             { id = "138485791735842", name = "hips sway cute" },
-            { id = "72135287204792", name = "dancing waist1" },
+            { id = "72135287204792", name = "dancing waist1" }
         }
     },
     {
@@ -83,6 +83,7 @@ return {
             { id = "109364514498221", name = "AppleStore" },
             { id = "96720886821465", name = "oops!" },
             { id = "77780134372141", name = "feelin myself sway" },
+            { id = "88038962894440", name = "PhutHon" }
         }
     }
 }
