@@ -33,7 +33,8 @@ return {
             { id = "103065929051231", name = "succ1" },
             { id = "124873747842579", name = "succ2" },
             { id = "85478341360173", name = "succ3", start = 1, finish = 10 },
-            { id = "81284540778909", name = "succ4/bend" }
+            { id = "81284540778909", name = "succ4/bend" },
+            { id = "86519407452355", name = "Serious hip movement" },
         }
     },
     {
@@ -56,7 +57,12 @@ return {
             { id = "75399969647635", name = "leg up hug" },
             { id = "78664527797699", name = "sit hug girl" },
             { id = "95980035499617", name = "match sit 1" },
-            { id = "105824857171709", name = "stand hug" }
+            { id = "105824857171709", name = "stand hug" },
+            { id = "72135287204792", name = "hips sway shy" },
+            { id = "104660720214070", name = "hips sway" },
+            { id = "122545939134570", name = "crossarms hipsway" },
+            { id = "138485791735842", name = "hips sway cute" },
+            { id = "72135287204792", name = "dancing waist1" },
         }
     },
     {
@@ -75,7 +81,8 @@ return {
             { id = "101385394794634", name = "Feeling pretty" },
             { id = "138316142522795", name = "hip sway" },
             { id = "109364514498221", name = "AppleStore" },
-            { id = "96720886821465", name = "oops!" }
+            { id = "96720886821465", name = "oops!" },
+            { id = "77780134372141", name = "feelin myself sway" },
         }
     }
 }
